@@ -1,0 +1,23 @@
+export const theme = {
+  mainFont: 'Helvetica, sans-serif',
+  mobileSize: '767px',
+  basicBlockRadius: '10px',
+  basicBlockSmallRadius: '4px',
+  // colors
+  basicInvisible: 'rgba(0,0,0,0)',
+  basicBlack: '#000',
+  basicWhite: '#fff',
+  basicRed: '#d10074',
+  basicLightRed: '#ea0082',
+  basicGrey: '#d3d3d3',
+  basicDarkGrey: '#808080',
+  basicBackLightGrey: '#c2c2c2',
+  basicBackLightGreyHover: '#a9a9a9',
+  basicBackcground: '#e2e1e1',
+  basicShadow: 'rgba(0,0,0,0.4)',
+  basicDarkBlueTextColor: '#00215e',
+  basicDarkColor: '#2a2c30',
+  basicBlue: '#1e90ff',
+  basicErrorRed: '#ff0000',
+  blockLightGrey: '#e9e9e9',
+};
